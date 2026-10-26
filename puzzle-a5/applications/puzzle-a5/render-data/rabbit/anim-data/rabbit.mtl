@@ -1,0 +1,6 @@
+# Blender 4.0.2 MTL File: 'adventure-bun31.blend'
+# www.blender.org
+
+newmtl rabbit-material
+
+map_Kd rabbit-tex-2.png

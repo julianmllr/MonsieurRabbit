@@ -1,0 +1,14 @@
+*.dll
+*.exe
+*.ilk
+*.pdb
+/.vs
+puzzle-a5/applications/puzzle-a5/imgui.ini
+puzzle-a5/applications/puzzle-a5/puzzle-a5
+puzzle-a5/out/
+puzzle-a5/build/
+puzzle-a5/cmake-build-debug
+.idea/
+
+puzzle-a5/applications/puzzle-a5/render-data/kenney_platformer-kit
+puzzle-a5/applications/puzzle-a5/render-data/kenney_graveyard-kit
